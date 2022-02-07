@@ -1,16 +1,12 @@
-/*Assignment - 20 : 6th Jan'2022
+/*
+    Assignment - 20 
+    Write a method to print sum of all digits in a given String.
+    Input : tech1noc9red3its
+    Output : 13
 
-Write a method to print sum of all digits in a given String.
-Input : tech1noc9red3its
-Output : 13
-
-Hint : 1+9+3
-
-
+    Hint : 1+9+3
  */
 package package1;
-
-import java.util.jar.Attributes.Name;
 
 public class Assignment20 {
 	
